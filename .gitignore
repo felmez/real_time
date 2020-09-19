@@ -1,0 +1,6 @@
+.vscode/*
+.env
+.glitch-assets
+node_modules/
+npm-debug.log
+.DS_Store
