@@ -3,9 +3,9 @@
 Develop a 2D real time multiplayer game using the HTML Canvas API and Socket.io that is functionally similar to this: https://secure-real-time-multiplayer-game.freecodecamp.rocks/. 
 
 <p align="center">
-    <img src="https://www.mediafire.com/view/4hhyicuq1m7fy6e/999.gif/file" />
+    <img src="https://github.com/felmez/assets/blob/main/989.gif" />
     <br />
-    <img src="https://www.mediafire.com/view/tos2jh32gia1j83/9999.gif" />
+    <img src="https://github.com/felmez/assets/blob/main/98989.gif" />
 </p>
 
 
