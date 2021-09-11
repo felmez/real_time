@@ -1,5 +1,4 @@
-# real_time
-Real-time multiplayers game.
+# Real-time multiplayers game.
 
 Develop a 2D real time multiplayer game using the HTML Canvas API and Socket.io that is functionally similar to this: https://secure-real-time-multiplayer-game.freecodecamp.rocks/. 
 
