@@ -1,9 +1,10 @@
 # real_time
-simple secure real-time multiplayer game with a little unit testing
+Real-time multiplayers game.
+
 Develop a 2D real time multiplayer game using the HTML Canvas API and Socket.io that is functionally similar to this: https://secure-real-time-multiplayer-game.freecodecamp.rocks/. 
 
 
-`Tests:
+Tests:
 
 Multiple players can connect to a server and play.
 
@@ -39,4 +40,4 @@ Prevent cross-site scripting (XSS) attacks.
 
 Nothing from the website is cached in the client.
 
-The headers say that the site is powered by "PHP 7.4.3" even though it isn't (as a security measure).`
+The headers say that the site is powered by "PHP 7.4.3" even though it isn't (as a security measure).
